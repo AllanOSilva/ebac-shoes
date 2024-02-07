@@ -126,9 +126,7 @@ button:hover{
 }
 
 @media screen and (min-width:641px) and (max-width:1023px) {
-    body{
-        overflow-x: hidden;
-    }
+    
     header, nav{
         display: flex;
         justify-items: center;
